@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.main{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.img{
+    width: 100%;
+    height: 100%;
+    margin-left: 15rem;
+}
+img{
+    width: 80rem;
+    height: 70rem;
+}
+.fom{
+    padding: 50px;
+    margin: 50px;
+    background-color: rgb(36, 16, 16);
+     height: 250px;
+    width: 450px;
+    margin: 40px;
+   position: absolute;
+   top: 32rem;
+   color: white;
+   font-size: 25px;
+}
+
+input{
+    padding: 5px;
+    padding-left: 15px;
+    color: black;
+    font-size: 15px;
+
+
+}
+button{
+    position: relative;
+    padding-left: 15rem;
+    margin-left: 15px;
+    padding-right: 0rem;
+}
+.btn{
+    height: 50px;
+    left: 8rem;
+    padding: 10px;
+    margin: 5px;
+    padding-left: 1rem;
+    color: black;
+    font-size: 15px;
+
+}
